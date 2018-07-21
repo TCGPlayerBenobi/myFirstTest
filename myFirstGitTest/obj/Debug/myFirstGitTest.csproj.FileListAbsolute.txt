@@ -1,0 +1,6 @@
+c:\users\ben\documents\visual studio 2013\Projects\myFirstGitTest\myFirstGitTest\bin\Debug\myFirstGitTest.exe.config
+c:\users\ben\documents\visual studio 2013\Projects\myFirstGitTest\myFirstGitTest\bin\Debug\myFirstGitTest.exe
+c:\users\ben\documents\visual studio 2013\Projects\myFirstGitTest\myFirstGitTest\bin\Debug\myFirstGitTest.pdb
+c:\users\ben\documents\visual studio 2013\Projects\myFirstGitTest\myFirstGitTest\obj\Debug\myFirstGitTest.csprojResolveAssemblyReference.cache
+c:\users\ben\documents\visual studio 2013\Projects\myFirstGitTest\myFirstGitTest\obj\Debug\myFirstGitTest.exe
+c:\users\ben\documents\visual studio 2013\Projects\myFirstGitTest\myFirstGitTest\obj\Debug\myFirstGitTest.pdb
